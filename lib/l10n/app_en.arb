@@ -1,0 +1,51 @@
+{
+  "@@locale": "en",
+  "appTitle": "Krishi Suraksha",
+  "chatbotName": "Kisan Mitra",
+  "selectImageSource": "Select Image Source",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "noImageSelected": "No image selected.",
+  "selectImage": "Select Image",
+  "result": "Result",
+  "changeLanguageButton": "Change Language",
+  "diseaseNamePlaceholder": "Disease Name will appear here",
+  "home": "Home",
+  "scanLeaf": "Scan Leaf",
+  "shop": "Shop",
+  "guide": "Guide",
+  "kisanMitra": "Kisan Mitra",
+  "chatbot": "Chatbot",
+  "noResult": "No result found",
+  "whichPlants": "Which Plants Do You Grow?",
+  "continueText": "Continue",
+  "cherry": "Cherry",
+  "potato": "Potato",
+  "tomato": "Tomato",
+  "grape": "Grape",
+  "corn": "Corn",
+  "peach": "Peach",
+  "apple": "Apple",
+  "orange": "Orange",
+  "bellPepper": "Bell Pepper",
+  "usernameHint": "Username",
+  "passwordHint": "Password",
+  "loginButton": "Login",
+  "loginError": "Please enter username and password",
+  "pleaseEnterCredentials": "Please enter username and password",
+  "continueButton": "Continue ({count}/5)",
+  "guideTitle": "How to Use the App",
+  "guideScanLeaf": "1. Scan Leaf: Click to take a photo of your crop leaf to identify issues.",
+  "guideShop": "2. Shop: Browse and purchase farming products like fertilizers, insecticides, and organic solutions.",
+  "guideGuide": "3. Guide: You are here! Provides tips on using the app.",
+  "guideChatbot": "4. Chatbot: Get instant advice and answers related to farming.",
+  "@continueButton": {
+    "description": "Continue button showing how many plants are selected",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  }
+}
